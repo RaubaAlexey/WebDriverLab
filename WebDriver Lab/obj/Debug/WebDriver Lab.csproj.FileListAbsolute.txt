@@ -1,0 +1,9 @@
+I:\Учёба\Курс 4\Тестирование ПО\WebDriver Lab\WebDriver Lab\bin\Debug\WebDriver Lab.dll
+I:\Учёба\Курс 4\Тестирование ПО\WebDriver Lab\WebDriver Lab\bin\Debug\WebDriver Lab.pdb
+I:\Учёба\Курс 4\Тестирование ПО\WebDriver Lab\WebDriver Lab\bin\Debug\nunit.framework.dll
+I:\Учёба\Курс 4\Тестирование ПО\WebDriver Lab\WebDriver Lab\bin\Debug\WebDriver.dll
+I:\Учёба\Курс 4\Тестирование ПО\WebDriver Lab\WebDriver Lab\bin\Debug\nunit.framework.xml
+I:\Учёба\Курс 4\Тестирование ПО\WebDriver Lab\WebDriver Lab\bin\Debug\WebDriver.xml
+I:\Учёба\Курс 4\Тестирование ПО\WebDriver Lab\WebDriver Lab\obj\Debug\WebDriver Lab.csprojResolveAssemblyReference.cache
+I:\Учёба\Курс 4\Тестирование ПО\WebDriver Lab\WebDriver Lab\obj\Debug\WebDriver Lab.dll
+I:\Учёба\Курс 4\Тестирование ПО\WebDriver Lab\WebDriver Lab\obj\Debug\WebDriver Lab.pdb
