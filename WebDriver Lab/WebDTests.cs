@@ -18,10 +18,10 @@ namespace WebDriver_Lab
 
 
             IWebElement loginWrite = firefox.FindElement(By.Id("login_field"));
-            loginWrite.SendKeys("RaubaAlexey");
+            loginWrite.SendKeys("testautomationuser");
 
             IWebElement passWrite = firefox.FindElement(By.Id("password"));
-            passWrite.SendKeys("RaubaL58824");
+            passWrite.SendKeys("Time4Death!");
 
             IWebElement loginClick = firefox.FindElement(By.Name("commit"));
             loginClick.Click();
